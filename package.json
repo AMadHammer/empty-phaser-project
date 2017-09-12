@@ -1,0 +1,14 @@
+{
+  "name": "spacedriftinggame",
+  "version": "0.0.1",
+  "description": "drift your ship in a space race",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AmmarRica",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
